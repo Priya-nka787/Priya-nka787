@@ -26,7 +26,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-nka787&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Priya-nka787&theme=tokyonight)](https://git.io/streak-stats)<!-- Add github-readme-stats widget here -->
-
+<p align="center">
+  <img src="https://github.com/Priya-nka787/Priya-nka787/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 ---
 
 ## 📬 Connect with Me
