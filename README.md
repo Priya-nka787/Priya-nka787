@@ -1,79 +1,191 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Priyanka!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20%7C%20Aspiring%20Software%20Engineer&descAlignY=55&descAlign=50)
+<!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priya-nka787&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Priya-nka787?label=Followers&style=social" alt="followers" />
+  <img src="github-banner.png" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Priyanka</h1>
+
+<p align="center">
+  <b>Full Stack Developer • Cybersecurity Explorer • Builder</b>
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&width=500&lines=B.Tech+CSE+Student+🚀;Aspiring+Software+Engineer+💡;Passionate+about+Coding+%26+Problem+Solving;Building+Innovative+Projects+✨" alt="Typing SVG" />
-  </a>
+  <i>Turning ideas into applications, and curiosity into skills.</i>
 </p>
 
+<br>
+
+<!-- ===================== CURRENTLY ===================== -->
+
+## ⚡ Currently
+
+- 🌐 Building with Full Stack technologies
+- 🔐 Exploring Cybersecurity
+- 🧠 Practicing DSA
+- 🚀 Building real-world projects
+- 📚 Continuously learning and improving
+
 ---
 
-## 🙋‍♀️ About Me
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-- 🎓 B.Tech CSE Student | Aspiring Software Engineer
-- 💡 Passionate about coding, problem-solving, and building innovative projects
-- 🌱 Currently learning **DSA**, **Web Development** and **Web3**
-- 🤝 Open to collaborations and new opportunities
-- 📫 Reach me at **pika.jpr2005@gmail.com**
+## 🚀 Featured Projects
+
+### 🔹 LeadFlow
+
+> Empowering businesses to manage leads, control dynamic role permissions, and automate operations through a modern web and desktop app.
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Node.js` `Express.js`  
+`PostgreSQL` `Prisma` `Tailwind CSS`
 
 ---
 
-## 🛠️ Languages & Tools
+### 🔹 Smart Attendance System
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,python,html,css,react,git,github,vscode&theme=dark" />
+> A Java-based attendance management system designed to simplify attendance recording and tracking.
+
+**Technology**
+
+`Java`
+
+---
+
+<!-- ===================== SKILLS ===================== -->
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+
+<p>
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </p>
 
+### 🌐 Full Stack Development
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
+</p>
+
+### 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Red_Hat_Linux-0D1117?style=for-the-badge&logo=redhat&logoColor=EE0000" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" />
+  <img src="https://img.shields.io/badge/Cryptography-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Web_Security-0D1117?style=for-the-badge&logo=owasp&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0D1117?style=for-the-badge&logoColor=FFFFFF" />
+</p>
+
+**Topics**
+
+`Brute Force` • `Credential Stuffing` • `Dictionary Attacks`  
+`Phishing` • `Ransomware` • `CIA Triad` • `MITRE ATT&CK`
+
+### 🛠️ Tools & Platforms
+
+**Development**
+
+`VS Code` • `IntelliJ IDEA` • `Eclipse`
+
+**Version Control**
+
+`Git` • `GitHub`
+
+**Database**
+
+`MySQL Workbench` • `PostgreSQL`
+
+**API Testing**
+
+`Postman`
+
+**Virtualization**
+
+`VMware`
+
 ---
+
+<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Priya-nka787&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="32%" src="https://streak-stats.demolab.com?user=Priya-nka787&theme=tokyonight&hide_border=true"/>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-nka787&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priya-nka787&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-nka787&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-
-## 📈 Contribution Graph
-
-[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priya-nka787&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://github.com/Priya-nka787/Priya-nka787/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://streak-stats.demolab.com?user=Priya-nka787&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
+<!-- ===================== BELIEF ===================== -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanka-choudhary-b7392b351" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pika.jpr2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Priya-nka787" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## 🔎 Belief
+
+> **"Build with purpose. Learn with curiosity. Keep improving."**
+
+I believe every project is an opportunity to learn something new, solve a real problem, and become better than yesterday.
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+
+<a href="https://github.com/Priya-nka787">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/priyanka-choudhary-b7392b351">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:pika.jpr2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+<br>
+
+<p align="center">
+  <i>Thanks for visiting my profile ✨</i>
+</p>
