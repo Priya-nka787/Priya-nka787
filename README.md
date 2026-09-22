@@ -56,151 +56,111 @@
 <!-- ===================== SKILLS ===================== -->
 
 ## 🛠️ Technical Skills
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top" bgcolor="#fff1f5">
-
-<h3>💻 Programming</h3>
+<h3>💻 <span style="color:#00E5FF;">Programming</span></h3>
 
 <p>
-<img src="https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=5C6BC0"/>
-<img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF6B35"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFE600"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-</p>
+<hr>
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top" bgcolor="#eef6ff">
-
-<h3>🌐 Full Stack Development</h3>
+<h3>🌐 <span style="color:#8A2BE2;">Full Stack Development</span></h3>
 
 <h4>Frontend</h4>
 
 <p>
-<img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
 </p>
 
 <h4>Backend</h4>
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
 </p>
 
 <h4>Database</h4>
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF"/>
 </p>
 
-</td>
-</tr>
+<hr>
 
-<tr>
-<td width="50%" valign="top" bgcolor="#fff8e8">
-
-<h3>🔐 Cybersecurity</h3>
+<h3>🔐 <span style="color:#39FF14;">Cybersecurity</span></h3>
 
 <p>
-<img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Red_Hat_Linux-ffffff?style=for-the-badge&logo=redhat&logoColor=EE0000"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-ffffff?style=for-the-badge&logo=kalilinux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/Networking-ffffff?style=for-the-badge&logo=cisco&logoColor=1BA0D7"/>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Red_Hat_Linux-0D1117?style=for-the-badge&logo=redhat&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=00E5FF"/>
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Cryptography-ffffff?style=for-the-badge&logo=letsencrypt&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Web_Security-ffffff?style=for-the-badge&logo=owasp&logoColor=000000"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Ethical_Hacking-ffffff?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-<img src="https://img.shields.io/badge/Burp_Suite-ffffff?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
+  <img src="https://img.shields.io/badge/Cryptography-0D1117?style=for-the-badge&logo=letsencrypt&logoColor=39FF14"/>
+  <img src="https://img.shields.io/badge/Web_Security-0D1117?style=for-the-badge&logo=owasp&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633"/>
 </p>
 
 <h4>Security Topics</h4>
 
 <p>
-<img src="https://img.shields.io/badge/Brute_Force-ffffff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Credential_Stuffing-ffffff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dictionary_Attacks-ffffff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Brute_Force-161B22?style=flat-square&logoColor=FF0055"/>
+  <img src="https://img.shields.io/badge/Credential_Stuffing-161B22?style=flat-square&logoColor=FF0055"/>
+  <img src="https://img.shields.io/badge/Dictionary_Attacks-161B22?style=flat-square&logoColor=FF0055"/>
+  <img src="https://img.shields.io/badge/Phishing-161B22?style=flat-square&logoColor=FF0055"/>
+  <img src="https://img.shields.io/badge/Ransomware-161B22?style=flat-square&logoColor=FF0055"/>
+  <img src="https://img.shields.io/badge/CIA_Triad-161B22?style=flat-square&logoColor=FF0055"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-161B22?style=flat-square&logoColor=FF0055"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Phishing-ffffff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ransomware-ffffff?style=flat-square"/>
-<img src="https://img.shields.io/badge/CIA_Triad-ffffff?style=flat-square"/>
-</p>
+<hr>
 
-<p>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-ffffff?style=flat-square"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top" bgcolor="#eefbf3">
-
-<h3>🛠️ Tools & Platforms</h3>
+<h3>🛠️ <span style="color:#FF00FF;">Tools & Platforms</span></h3>
 
 <h4>Development</h4>
 
 <p>
-<img src="https://img.shields.io/badge/VS_Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-ffffff?style=for-the-badge&logo=intellijidea&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Eclipse-ffffff?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00A8FF"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=FF00FF"/>
+  <img src="https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipseide&logoColor=9B59B6"/>
 </p>
 
 <h4>Version Control</h4>
 
 <p>
-<img src="https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF4D4D"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </p>
 
-<h4>Database</h4>
+<h4>Database & API</h4>
 
 <p>
-<img src="https://img.shields.io/badge/MySQL_Workbench-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-</p>
-
-<h4>API Testing</h4>
-
-<p>
-<img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/MySQL_Workbench-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
 <h4>Virtualization</h4>
 
 <p>
-<img src="https://img.shields.io/badge/VMware-ffffff?style=for-the-badge&logo=vmware&logoColor=607078"/>
+  <img src="https://img.shields.io/badge/VMware-0D1117?style=for-the-badge&logo=vmware&logoColor=00BFFF"/>
 </p>
-
-</td>
-</tr>
-</table>
-
 <!-- ===================== BELIEF ===================== -->
 
 ## 🔎 Belief
