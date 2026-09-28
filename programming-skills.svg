@@ -1,12 +1,16 @@
-<svg width="1000" height="190" viewBox="0 0 1000 190"
-     xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="950"
+  height="190"
+  viewBox="0 0 950 190"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
   <defs>
 
-    <!-- BLUE NEON GLOW -->
+    <!-- Blue glow -->
     <filter id="blueGlow"
-            x="-50%" y="-50%"
-            width="200%" height="200%">
+            x="-30%" y="-30%"
+            width="160%" height="160%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -14,10 +18,10 @@
       </feMerge>
     </filter>
 
-    <!-- PINK NEON GLOW -->
+    <!-- Pink glow -->
     <filter id="pinkGlow"
-            x="-50%" y="-50%"
-            width="200%" height="200%">
+            x="-30%" y="-30%"
+            width="160%" height="160%">
       <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -25,255 +29,339 @@
       </feMerge>
     </filter>
 
-    <!-- DARK BACKGROUND -->
-    <linearGradient id="dark"
-                    x1="0" y1="0"
-                    x2="0" y2="1">
-      <stop offset="0%" stop-color="#080A12"/>
-      <stop offset="100%" stop-color="#020307"/>
-    </linearGradient>
+    <!-- Purple glow -->
+    <filter id="purpleGlow"
+            x="-30%" y="-30%"
+            width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
   </defs>
 
 
-  <!-- DARK TRANSPARENT PANEL -->
+  <!-- ================================================= -->
+  <!-- DARK BACKGROUND -->
+  <!-- ================================================= -->
 
   <rect
-      x="45"
-      y="25"
-      width="910"
-      height="140"
-      rx="6"
-      fill="url(#dark)"
-      opacity="0.94"/>
+    x="24"
+    y="28"
+    width="902"
+    height="140"
+    rx="5"
+    fill="#0D1117"
+  />
 
 
-  <!-- THIN BLUE FRAME -->
+  <!-- ================================================= -->
+  <!-- MAIN BLUE RECTANGLE -->
+  <!-- ================================================= -->
 
   <rect
-      x="55"
-      y="35"
-      width="890"
-      height="120"
-      rx="4"
-      fill="none"
-      stroke="#4DA6FF"
-      stroke-width="2"
-      filter="url(#blueGlow)"/>
+    x="34"
+    y="39"
+    width="882"
+    height="118"
+    rx="3"
+    fill="none"
+    stroke="#00AFFF"
+    stroke-width="2"
+    filter="url(#blueGlow)"
+  />
+
+  <rect
+    x="38"
+    y="43"
+    width="874"
+    height="110"
+    rx="2"
+    fill="none"
+    stroke="#0066FF"
+    stroke-width="0.8"
+    opacity="0.45"
+  />
 
 
-  <!-- THIN PINK ROTATED FRAME -->
+  <!-- ================================================= -->
+  <!-- PINK RECTANGLE - TILTED CLOCKWISE -->
+  <!-- ================================================= -->
 
-  <g transform="rotate(2.5 500 95)">
+  <g transform="rotate(2.8 475 95)">
 
     <rect
-        x="65"
-        y="38"
-        width="870"
-        height="115"
-        rx="4"
-        fill="none"
-        stroke="#FF3DBB"
-        stroke-width="2"
-        filter="url(#pinkGlow)"/>
+      x="43"
+      y="35"
+      width="864"
+      height="116"
+      rx="3"
+      fill="none"
+      stroke="#FF28C8"
+      stroke-width="2"
+      filter="url(#pinkGlow)"
+    />
+
+    <rect
+      x="47"
+      y="39"
+      width="856"
+      height="108"
+      rx="2"
+      fill="none"
+      stroke="#FF28C8"
+      stroke-width="0.7"
+      opacity="0.4"
+    />
 
   </g>
 
 
-  <!-- ========================= -->
-  <!-- PROGRAMMING BADGES        -->
-  <!-- ========================= -->
+  <!-- ================================================= -->
+  <!-- THIRD RECTANGLE - OPPOSITE TILT -->
+  <!-- ================================================= -->
 
+  <g transform="rotate(-2.5 475 95)">
+
+    <rect
+      x="50"
+      y="42"
+      width="850"
+      height="108"
+      rx="3"
+      fill="none"
+      stroke="#9B5CFF"
+      stroke-width="1.8"
+      filter="url(#purpleGlow)"
+      opacity="0.95"
+    />
+
+    <rect
+      x="54"
+      y="46"
+      width="842"
+      height="100"
+      rx="2"
+      fill="none"
+      stroke="#7A3CFF"
+      stroke-width="0.6"
+      opacity="0.35"
+    />
+
+  </g>
+
+
+  <!-- ================================================= -->
+  <!-- SKILL BADGE STYLE -->
+  <!-- ================================================= -->
 
   <!-- C -->
 
   <rect
-      x="85"
-      y="55"
-      width="100"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#4DA6FF"
-      stroke-width="1.5"/>
+    x="62"
+    y="62"
+    width="97"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#168CFF"
+    stroke-width="1.5"
+  />
 
   <text
-      x="135"
-      y="79"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="17"
-      font-weight="bold">
-      C
+    x="110.5"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    C
   </text>
 
 
   <!-- C++ -->
 
   <rect
-      x="195"
-      y="55"
-      width="105"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#4D7CFF"
-      stroke-width="1.5"/>
+    x="168"
+    y="62"
+    width="101"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#3B78FF"
+    stroke-width="1.5"
+  />
 
   <text
-      x="247"
-      y="79"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="17"
-      font-weight="bold">
-      C++
+    x="218.5"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    C++
   </text>
 
 
   <!-- JAVA -->
 
   <rect
-      x="310"
-      y="55"
-      width="105"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#FF6A00"
-      stroke-width="1.5"/>
+    x="278"
+    y="62"
+    width="102"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#FF7900"
+    stroke-width="1.5"
+  />
 
   <text
-      x="362"
-      y="79"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="17"
-      font-weight="bold">
-      JAVA
+    x="329"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    JAVA
   </text>
 
 
   <!-- PYTHON -->
 
   <rect
-      x="425"
-      y="55"
-      width="120"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#FFD21F"
-      stroke-width="1.5"/>
+    x="389"
+    y="62"
+    width="116"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#FFD600"
+    stroke-width="1.5"
+  />
 
   <text
-      x="485"
-      y="79"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="17"
-      font-weight="bold">
-      PYTHON
+    x="447"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    PYTHON
   </text>
 
 
   <!-- JAVASCRIPT -->
 
   <rect
-      x="555"
-      y="55"
-      width="145"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#FFE600"
-      stroke-width="1.5"/>
+    x="514"
+    y="62"
+    width="139"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#FFE000"
+    stroke-width="1.5"
+  />
 
   <text
-      x="627"
-      y="79"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="16"
-      font-weight="bold">
-      JAVASCRIPT
+    x="583.5"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    JAVASCRIPT
   </text>
 
 
   <!-- TYPESCRIPT -->
 
   <rect
-      x="710"
-      y="55"
-      width="130"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#00BFFF"
-      stroke-width="1.5"/>
+    x="662"
+    y="62"
+    width="125"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#00D9FF"
+    stroke-width="1.5"
+  />
 
   <text
-      x="775"
-      y="79"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="16"
-      font-weight="bold">
-      TYPESCRIPT
+    x="724.5"
+    y="85"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    TYPESCRIPT
   </text>
 
 
   <!-- HTML5 -->
 
   <rect
-      x="250"
-      y="105"
-      width="115"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#FF4B00"
-      stroke-width="1.5"/>
+    x="220"
+    y="110"
+    width="111"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#FF5C00"
+    stroke-width="1.5"
+  />
 
   <text
-      x="307"
-      y="129"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="16"
-      font-weight="bold">
-      HTML5
+    x="275.5"
+    y="133"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    HTML5
   </text>
 
 
   <!-- CSS3 -->
 
   <rect
-      x="380"
-      y="105"
-      width="105"
-      height="35"
-      rx="7"
-      fill="#080808"
-      stroke="#00BFFF"
-      stroke-width="1.5"/>
+    x="345"
+    y="110"
+    width="101"
+    height="34"
+    rx="7"
+    fill="#090D12"
+    stroke="#00D9FF"
+    stroke-width="1.5"
+  />
 
   <text
-      x="432"
-      y="129"
-      text-anchor="middle"
-      fill="#FFFFFF"
-      font-family="Arial"
-      font-size="16"
-      font-weight="bold">
-      CSS3
+    x="395.5"
+    y="133"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    font-weight="700"
+    fill="#FFFFFF"
+  >
+    CSS3
   </text>
 
 </svg>
