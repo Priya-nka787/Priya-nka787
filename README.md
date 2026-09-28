@@ -1,10 +1,14 @@
 <!-- ===================== HERO ===================== -->
 
 <p align="center">
-  <img src="github-banner.png" width="100%" />
+  <img src="./github-banner.png" width="100%" alt="Priyanka GitHub Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Priyanka</h1>
+<br>
+
+<h1 align="center">
+  Hi 👋, I'm Priyanka
+</h1>
 
 <p align="center">
   <b>Full Stack Developer • Cybersecurity Explorer • Builder</b>
@@ -26,6 +30,8 @@
 - 🚀 Building real-world projects
 - 📚 Continuously learning and improving
 
+<br>
+
 ---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
@@ -38,8 +44,18 @@
 
 **Tech Stack**
 
-`Next.js` `React` `TypeScript` `Node.js` `Express.js`  
-`PostgreSQL` `Prisma` `Tailwind CSS`
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+</p>
 
 ---
 
@@ -49,141 +65,191 @@
 
 **Technology**
 
-`Java`
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+
+</p>
+
+<br>
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
+<!-- ===================== TECHNICAL SKILLS ===================== -->
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
-<div align="left">
+<p>
 
-![C](https://readmeforge.natrajx.in/api/button?label=C&style=3d&metal=neon-blue&width=95&height=38)
-![C++](https://readmeforge.natrajx.in/api/button?label=C%2B%2B&style=3d&metal=neon-blue&width=105&height=38)
-![Java](https://readmeforge.natrajx.in/api/button?label=JAVA&style=3d&metal=neon-orange&width=105&height=38)
-![Python](https://readmeforge.natrajx.in/api/button?label=PYTHON&style=3d&metal=neon-yellow&width=115&height=38)
-![JavaScript](https://readmeforge.natrajx.in/api/button?label=JAVASCRIPT&style=3d&metal=neon-yellow&width=145&height=38)
-![TypeScript](https://readmeforge.natrajx.in/api/button?label=TYPESCRIPT&style=3d&metal=neon-blue&width=145&height=38)
-![SQL](https://readmeforge.natrajx.in/api/button?label=SQL&style=3d&metal=neon-purple&width=95&height=38)
-![HTML5](https://readmeforge.natrajx.in/api/button?label=HTML5&style=3d&metal=neon-orange&width=110&height=38)
-![CSS3](https://readmeforge.natrajx.in/api/button?label=CSS3&style=3d&metal=neon-blue&width=100&height=38)
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-</div>
+</p>
+
+<br>
+
+### 🌐 Web Development
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+</p>
+
+<br>
+
+### ⚙️ Backend Development
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+</p>
+
+<br>
+
+### 🗄️ Databases & ORM
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+
+</p>
+
+<br>
 
 ---
 
-### 🌐 Full Stack Development
-
-#### Frontend
-
-<div align="left">
-
-![React](https://readmeforge.natrajx.in/api/button?label=REACT&style=3d&metal=neon-blue&width=115&height=38)
-![Next.js](https://readmeforge.natrajx.in/api/button?label=NEXT.JS&style=3d&metal=obsidian&width=125&height=38)
-![Tailwind CSS](https://readmeforge.natrajx.in/api/button?label=TAILWIND+CSS&style=3d&metal=neon-blue&width=150&height=38)
-
-</div>
-
-#### Backend
-
-<div align="left">
-
-![Node.js](https://readmeforge.natrajx.in/api/button?label=NODE.JS&style=3d&metal=neon-green&width=125&height=38)
-![Express.js](https://readmeforge.natrajx.in/api/button?label=EXPRESS.JS&style=3d&metal=neon-purple&width=140&height=38)
-
-</div>
-
-#### Database
-
-<div align="left">
-
-![MySQL](https://readmeforge.natrajx.in/api/button?label=MYSQL&style=3d&metal=neon-blue&width=110&height=38)
-![PostgreSQL](https://readmeforge.natrajx.in/api/button?label=POSTGRESQL&style=3d&metal=neon-blue&width=145&height=38)
-![Prisma](https://readmeforge.natrajx.in/api/button?label=PRISMA&style=3d&metal=obsidian&width=115&height=38)
-
-</div>
-
----
+<!-- ===================== CYBERSECURITY ===================== -->
 
 ### 🔐 Cybersecurity
 
-<div align="left">
+#### 🖥️ Systems & Networking
 
-![Linux](https://readmeforge.natrajx.in/api/button?label=LINUX&style=3d&metal=neon-green&width=110&height=38)
-![Red Hat Linux](https://readmeforge.natrajx.in/api/button?label=RED+HAT+LINUX&style=3d&metal=neon-red&width=155&height=38)
-![Kali Linux](https://readmeforge.natrajx.in/api/button?label=KALI+LINUX&style=3d&metal=neon-blue&width=140&height=38)
-![Networking](https://readmeforge.natrajx.in/api/button?label=NETWORKING&style=3d&metal=neon-cyan&width=145&height=38)
+<p>
 
-</div>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-00A8E8?style=flat-square&logo=cisco&logoColor=white" />
 
-#### Security
+</p>
 
-<div align="left">
+<br>
 
-![Cryptography](https://readmeforge.natrajx.in/api/button?label=CRYPTOGRAPHY&style=3d&metal=neon-purple&width=155&height=38)
-![Web Security](https://readmeforge.natrajx.in/api/button?label=WEB+SECURITY&style=3d&metal=neon-pink&width=145&height=38)
-![Ethical Hacking](https://readmeforge.natrajx.in/api/button?label=ETHICAL+HACKING&style=3d&metal=neon-green&width=165&height=38)
-![Burp Suite](https://readmeforge.natrajx.in/api/button?label=BURP+SUITE&style=3d&metal=neon-orange&width=135&height=38)
+#### 🛡️ Security
 
-</div>
+<p>
 
-#### Attack & Security Concepts
+<img src="https://img.shields.io/badge/Cryptography-7B2CBF?style=flat-square&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Security-E91E63?style=flat-square&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethical_Hacking-00C853?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
 
-<div align="left">
+</p>
 
-![Brute Force](https://readmeforge.natrajx.in/api/button?label=BRUTE+FORCE&style=3d&metal=neon-red&width=140&height=38)
-![Credential Stuffing](https://readmeforge.natrajx.in/api/button?label=CREDENTIAL+STUFFING&style=3d&metal=neon-pink&width=185&height=38)
-![Dictionary Attack](https://readmeforge.natrajx.in/api/button?label=DICTIONARY+ATTACK&style=3d&metal=neon-yellow&width=175&height=38)
-![Phishing](https://readmeforge.natrajx.in/api/button?label=PHISHING&style=3d&metal=neon-blue&width=120&height=38)
-![Ransomware](https://readmeforge.natrajx.in/api/button?label=RANSOMWARE&style=3d&metal=neon-red&width=140&height=38)
-![CIA Triad](https://readmeforge.natrajx.in/api/button?label=CIA+TRIAD&style=3d&metal=neon-purple&width=120&height=38)
-![MITRE ATT&CK](https://readmeforge.natrajx.in/api/button?label=MITRE+ATT%26CK&style=3d&metal=neon-purple&width=150&height=38)
+<br>
 
-</div>
+#### ⚔️ Attack & Security Concepts
+
+<p>
+
+<img src="https://img.shields.io/badge/Brute_Force-D32F2F?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Credential_Stuffing-C2185B?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/Dictionary_Attack-F9A825?style=flat-square&logo=keycdn&logoColor=black" />
+<img src="https://img.shields.io/badge/Phishing-1565C0?style=flat-square&logo=protonmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Ransomware-B71C1C?style=flat-square&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/CIA_Triad-6A1B9A?style=flat-square&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-6B7280?style=flat-square&logo=mitre&logoColor=white" />
+
+</p>
+
+<br>
 
 ---
 
+<!-- ===================== TOOLS ===================== -->
+
 ### 🛠️ Tools & Platforms
 
-#### Development
+#### 💻 Development
 
-<div align="left">
+<p>
 
-![VS Code](https://readmeforge.natrajx.in/api/button?label=VS+CODE&style=3d&metal=neon-blue&width=125&height=38)
-![IntelliJ IDEA](https://readmeforge.natrajx.in/api/button?label=INTELLIJ+IDEA&style=3d&metal=neon-purple&width=150&height=38)
-![Eclipse](https://readmeforge.natrajx.in/api/button?label=ECLIPSE&style=3d&metal=neon-blue&width=120&height=38)
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
 
-</div>
+</p>
 
-#### Version Control
+<br>
 
-<div align="left">
+#### 🔀 Version Control
 
-![Git](https://readmeforge.natrajx.in/api/button?label=GIT&style=3d&metal=neon-orange&width=95&height=38)
-![GitHub](https://readmeforge.natrajx.in/api/button?label=GITHUB&style=3d&metal=obsidian&width=115&height=38)
+<p>
 
-</div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-#### Database & API
+</p>
 
-<div align="left">
+<br>
 
-![MySQL Workbench](https://readmeforge.natrajx.in/api/button?label=MYSQL+WORKBENCH&style=3d&metal=neon-blue&width=175&height=38)
-![PostgreSQL](https://readmeforge.natrajx.in/api/button?label=POSTGRESQL&style=3d&metal=neon-blue&width=145&height=38)
-![Postman](https://readmeforge.natrajx.in/api/button?label=POSTMAN&style=3d&metal=neon-orange&width=120&height=38)
+#### 🗃️ Database & API
 
-</div>
+<p>
 
-#### Virtualization
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
-<div align="left">
+</p>
 
-![VMware](https://readmeforge.natrajx.in/api/button?label=VMWARE&style=3d&metal=neon-blue&width=120&height=38)
+<br>
 
-</div>
+#### 🖥️ Virtualization
+
+<p>
+
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+
+</p>
+
+<br>
+
+---
+
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Priya-nka787&hide_border=true&background=0D1117&ring=00E5FF&fire=FF00FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="GitHub Contribution Streak"
+/>
+
+</p>
+
+<br>
+
+---
+
 <!-- ===================== BELIEF ===================== -->
 
 ## 🔎 Belief
@@ -191,6 +257,8 @@
 > **"Build with purpose. Learn with curiosity. Keep improving."**
 
 I believe every project is an opportunity to learn something new, solve a real problem, and become better than yesterday.
+
+<br>
 
 ---
 
@@ -201,15 +269,24 @@ I believe every project is an opportunity to learn something new, solve a real p
 <p align="center">
 
 <a href="https://github.com/Priya-nka787">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img
+  src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/priyanka-choudhary-b7392b351">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img
+  src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="mailto:pika.jpr2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img
+  src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+  alt="Email"
+/>
 </a>
 
 </p>
